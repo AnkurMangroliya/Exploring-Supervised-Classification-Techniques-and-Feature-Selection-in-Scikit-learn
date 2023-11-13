@@ -1,29 +1,29 @@
-# Exploring-Supervised-Classification-Techniques-and-Feature-Selection-in-Scikit-learn
-This project is a group assignment undertaken by students of the University of Windsor (COMP 8740). The group members include:
+# Exploring Supervised Classification Techniques and Feature Selection in Scikit-learn
 
-- **Ankur Mangroliya **
-- **Gagandeep Singh **
-- **Deon Victor Lobo **
-- **Akshar Patel **
+This project, a group assignment for COMP 8740 at the University of Windsor, has been undertaken by the following members:
+
+- **Ankur Mangroliya**
+- **Gagandeep Singh**
+- **Deon Victor Lobo**
+- **Akshar Patel**
 
 ## Introduction
 
-The primary focus of this project is to explore supervised classification techniques using Scikit-learn. The group downloaded various datasets (circles, moons, spirals) and applied Decision Tree, Random Forest, and Neural Network classifiers. They assessed their performance using 10-fold cross-validation. Additionally, they delved into the breast cancer dataset, applying feature selection methods like Chi-squared and mRMR to improve the classifiers' performance using metrics like PPV, NPV, specificity, sensitivity, and accuracy. This project is dedicated to understanding classifier performance, feature selection methods, and their real-world applications.
+The project's primary aim is to delve into supervised classification techniques using Scikit-learn. The team explored various datasets—circles, moons, spirals—employing Decision Tree, Random Forest, and Neural Network classifiers, evaluating their performance through 10-fold cross-validation. Additionally, they delved into the breast cancer dataset, applying feature selection methods such as Chi-squared and mRMR to enhance the classifiers' performance using metrics like PPV, NPV, specificity, sensitivity, and accuracy. This project is dedicated to comprehending classifier performance, feature selection methods, and their practical applications.
 
 ## Implementation
 
-The project comprises Python code that defines three classifiers, specifies their configurations, and iterates through different datasets. It separates features and labels, performs cross-validation, and extracts crucial performance metrics for analysis and comparison among the models. The group aims to provide insights into the effectiveness of different classifiers through visualizations and tables displaying performance results.
+This Python-based project defines three classifiers, configures their settings, and iterates through diverse datasets. It separates features and labels, conducts cross-validation, and extracts pivotal performance metrics for analysis and model comparison. The team aims to provide insights into the effectiveness of different classifiers through visualizations and performance result tables.
 
 ## Group Efforts
 
-The comprehensive report involves a detailed analysis of various classifier performances on different datasets, outlining the distinctive capabilities of Decision Tree, Random Forest, and Neural Network. The performance on binary classification using Decision Tree, RandomForest, and multi-layer perceptron (MLP) classifiers is deeply explored.
+The comprehensive report entails an extensive analysis of various classifier performances across diverse datasets, highlighting the distinctive capabilities of Decision Tree, Random Forest, and Neural Network. The performance concerning binary classification using Decision Tree, Random Forest, and multi-layer perceptron (MLP) classifiers has been deeply explored.
 
 ## Breast Cancer Dataset Analysis
 
-The report analyzes the strategies employed for handling class imbalance and the reasons for selecting the One-vs-One (OvO) technique. Furthermore, the group implements Chi2 and mrmr feature selection methods in combination with RandomForest and OneVsOne schemes, presenting their outputs through detailed appendix sections.
+The report thoroughly scrutinizes strategies to handle class imbalance and the rationale behind selecting the One-vs-One (OvO) technique. Additionally, the team implements Chi2 and mRMR feature selection methods in combination with RandomForest and OneVsOne schemes, presenting detailed outputs in the appendix.
 
 ## Conclusion
 
-This project extensively reviews classifier performance, feature selection methodologies, and the application of machine learning techniques on various datasets, aiming to enrich the understanding of classification and feature selection in real-world scenarios.
-
+This project thoroughly reviews classifier performance, feature selection methodologies, and the application of machine learning techniques across various datasets. It aims to enrich the understanding of classification and feature selection in real-world applications.
 
