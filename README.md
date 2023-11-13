@@ -1,10 +1,10 @@
 # Exploring-Supervised-Classification-Techniques-and-Feature-Selection-in-Scikit-learn
 This project is a group assignment undertaken by students of the University of Windsor (COMP 8740). The group members include:
 
-- **Ankur Mangroliya (110127190)**
-- **Gagandeep Singh (110123330)**
-- **Deon Victor Lobo (110127749)**
-- **Akshar Patel (110126131)**
+- **Ankur Mangroliya **
+- **Gagandeep Singh **
+- **Deon Victor Lobo **
+- **Akshar Patel **
 
 ## Introduction
 
